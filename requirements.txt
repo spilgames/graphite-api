@@ -8,4 +8,4 @@ raven[flask]
 six
 structlog
 tzlocal
-gunicorn
+uwsgi
